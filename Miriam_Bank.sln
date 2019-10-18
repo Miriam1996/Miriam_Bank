@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Miriam_Bank", "Miriam_Bank\Miriam_Bank.csproj", "{65ABE415-0B7E-4E16-A78B-A528C03B487C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65ABE415-0B7E-4E16-A78B-A528C03B487C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65ABE415-0B7E-4E16-A78B-A528C03B487C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65ABE415-0B7E-4E16-A78B-A528C03B487C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65ABE415-0B7E-4E16-A78B-A528C03B487C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
